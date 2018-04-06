@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="iconbar_height">28dp</dimen>
+    <dimen name="duration_bar_height">32dp</dimen>
+    <dimen name="duration_text_view">18sp</dimen>
+    <dimen name="course_name_text_view">28sp</dimen>
+    <dimen name="details_text_size">14sp</dimen>
+    <dimen name="course_name_text_size">15sp</dimen>
+    <dimen name="list">66sp</dimen>
+
+</resources>
